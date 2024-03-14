@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khizar457](https://github.com/khizar457)
 
-- 📫 How to reach me **khizarqamar06@gmail.com**
+- 📫 How to reach me **khizarqamar06@gmail.com OR +92304-5202327**
 
 - 📄 Know about my experiences [https://khizar457.github.io/Portfolio/](https://khizar457.github.io/Portfolio/)
 
