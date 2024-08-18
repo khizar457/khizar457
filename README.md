@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Khizar!
 
-<!--
-**khizar457/khizar457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m learning Web Development (MERN Stack), DevOps, and Web3 from [100xDevs](https://www.linkedin.com/company/100xdevs/posts/?feedView=all) by [Harkirat Singh](https://www.linkedin.com/in/kirat-li/).
+- 👯 I’m looking to collaborate on open-source projects related to web development.
+- 📫 How to reach me: khizarqamar06@gmail.com
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- 💻 **Languages**: HTML, CSS, JavaScript, C++, SQL
+- 🌐 **Frontend**: HTML, CSS
+- 🛠 **Backend**: SQLite
+- 🛢 **Databases**: SQL
+- 🧰 **Tools**: Git, GitHub, VS Code, WSL (Ubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌍 Connect with Me
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khizarqamar/)
+- Twitter: [Twitter Profile](https://www.x.com/khizarqamar05)
+
+
+### 💼 Open Source Contribution
+- I’m actively contributing to open-source projects and looking for new opportunities to collaborate.
+
+### 🎓 Education
+- Studying at LGU with a focus on software engineering.
+
+### 🏆 Achievements
+- Completed various projects like [Amazon-Clone](https://khizar457.github.io/Amazon-Clone/), [VS Code Clone](https://vs-code-psi.vercel.app/), and more.
+
+---
